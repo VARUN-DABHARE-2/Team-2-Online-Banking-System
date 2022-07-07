@@ -66,3 +66,23 @@ ng serve
 * Spring Data JPA
 * HTML5
 * SCSS
+
+# Sample Images:
+
+* Home page
+![Screenshot (493)](https://user-images.githubusercontent.com/108650311/177747608-7509602c-faf1-4720-8593-b806b48e4c9e.png)
+
+* Login page
+![Screenshot (519)](https://user-images.githubusercontent.com/108650311/177748061-955b0736-3901-4190-adab-9fb7b41937f7.png)
+
+* Registration page
+![Screenshot (518)](https://user-images.githubusercontent.com/108650311/177748978-99407781-0b2e-400e-bb7a-018282803b72.png)
+
+* Admin panel
+![Screenshot (517)](https://user-images.githubusercontent.com/108650311/177749723-5b9cbb16-8c51-4f9f-b911-c50267334da8.png)
+
+* Employee panel
+![Screenshot (511)](https://user-images.githubusercontent.com/108650311/177749809-129eee92-21ce-4e2e-8490-b28bbd6b88c0.png)
+
+* Customer panel
+![Screenshot (505)](https://user-images.githubusercontent.com/108650311/177749851-ca947059-0c4a-418e-8fcc-de4a70327abf.png)
