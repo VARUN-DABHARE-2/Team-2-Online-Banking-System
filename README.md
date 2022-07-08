@@ -1,7 +1,7 @@
 # Team-2-Online-Banking-System
 
 ## About
-V.A.S.P is an Angular web application which is made on Angular using Spring Boot and Oracle as databse. 
+V.A.S.P is an Angular web application which is made on Angular using Spring Boot and Oracle as database. 
 - Admins can add new employees, approve the requests and make significant changes.
 - Employees can add new customers, approve the requests and make significant changes.
 - Customers can register, login and use the banking services with this application. 
